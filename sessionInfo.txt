@@ -1,0 +1,6 @@
+This file should store the exact R environment used for analysis.
+
+Please run the following command in R from the project directory to refresh it:
+
+writeLines(capture.output(sessionInfo()), "sessionInfo.txt")
+
